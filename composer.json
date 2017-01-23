@@ -1,5 +1,5 @@
 {
-  "name": "zendframework/zend-diactoros",
+  "name": "bidalgodev/zend-diactoros",
   "description": "PSR HTTP Message implementations",
   "type": "library",
   "license": "BSD-2-Clause",
